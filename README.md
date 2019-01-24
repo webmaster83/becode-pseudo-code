@@ -1,5 +1,5 @@
 # becode-pseudo-code
-1) 
+## 1) 
 DEBUT
 
 ENTRER prenom
@@ -10,7 +10,7 @@ RETOURNER HELLO
 
 FIN
 
-2)
+## 2)
 DEBUT 
 
 ENTRER A, B
@@ -23,7 +23,7 @@ RETOURNER
 
 FIN
 
-3) 
+## 3) 
 
 DEBUT
 
@@ -35,7 +35,10 @@ Competence = [ "Compétence1", "Compétence2", "Compétence3"]
 
 Classe 
 
-RETOURNER Prénom + " est dans la " + classe + " et connait les "  + competence[] 
+RETOURNER Prénom + " est dans la " + classe + " et connait les "  + competence[ ] 
 
 
 FIN
+
+## 4)
+
