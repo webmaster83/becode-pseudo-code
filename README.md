@@ -33,4 +33,9 @@ Prenom
 
 Competence = [ "Compétence1", "Compétence2", "Compétence3"]
 
+Classe 
+
+RETOURNER Prénom + " est dans la " + classe + " et connait les "  + competence[] 
+
+
 FIN
