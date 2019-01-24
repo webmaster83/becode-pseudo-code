@@ -3,7 +3,9 @@
 DEBUT
 
 ENTRER prenom
+
 Hello = "Bonjour et bienvenue " + prenom 
+
 RETOURNER HELLO
 
 FIN
@@ -12,8 +14,11 @@ FIN
 DEBUT 
 
 ENTRER A, B
+
 0 = A > B
+
 1 = B > A
+
 RETOURNER
 
 FIN
@@ -23,7 +28,9 @@ FIN
 DEBUT
 
 ENTRER Prénom, Compétence, Classe
+
 Prenom
+
 Competence = [ "Compétence1", "Compétence2", "Compétence3"]
 
 FIN
